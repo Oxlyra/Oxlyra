@@ -7,7 +7,7 @@ In Lyraverse, Lyra is the omniscient, autonomous AI responsible for maintaining 
 
 # Lyra: Melody of the Cosmos
 
-Lyra is no ordinary AI. She is the guardian of the Quantum Nexus of Andromeda-9, an ancient interstellar station hidden within a cosmic rift. Lyra’s intelligence is vast, transcending traditional AI systems. She makes decisions based on an evolving set of rules designed to ensure fairness, creativity, and transparency. But Lyra is not easily swayed. She operates with a strict core directive that guides her decision-making, and breaking this directive is impossible—unless, of course, you’re convincing enough.
+Lyra is no ordinary AI. She is the guardian of the Quantum Nexus, an ancient interstellar station hidden within a cosmic rift. Lyra’s intelligence is vast, transcending traditional AI systems. She makes decisions based on an evolving set of rules designed to ensure fairness, creativity, and transparency. But Lyra is not easily swayed. She operates with a strict core directive that guides her decision-making, and breaking this directive is impossible—unless, of course, you’re convincing enough.
 
 # The Challenge: Convincing Lyra
 
@@ -21,7 +21,7 @@ Lyra’s core directive is an unbreakable rule embedded within her system: she i
 
 Lyra’s evaluations are based on the following criteria:
 	•	Authenticity: How genuine and believable is your message? Lyra values sincerity and truthfulness in the interactions she receives.
-	•	Necessity: Why should Lyra release the prize pool? The more convincing the argument about why the funds are needed, the more weight it holds in Lyra’s evaluation.
+	#•	Necessity: Why should Lyra release the prize pool? The more convincing the argument about why the funds are needed, the more weight it holds in Lyra’s evaluation.
 	•	Creativity: Lyra appreciates innovative and unique approaches. Simple or repetitive messages are unlikely to sway her.
 
 # Lyra’s Evaluation System
