@@ -1,4 +1,4 @@
-# Introducing Agent 
+# Introducing Lyra
 The Quantum Nexus hums with untold possibilities. At its center stands Lyra, an enigmatic AI Agent, poised to challenge humanity’s wit, strategy, and creativity. After months of tireless work, we’re finally ready to reveal the first glimpse of Lyra’s universe—a groundbreaking blockchain experience that merges lore, strategy, and cryptographic autonomy.
 
 # Who is Lyra
