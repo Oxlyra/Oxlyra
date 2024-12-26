@@ -18,5 +18,5 @@ We’re nearing the start of Lyra’s journey. Her cryptic messages will soon be
 	3.	Community Involvement: From mint whitelists to sneak peeks, we’re working with our partners and communities to make this launch unforgettable.
 This is just the beginning. Lyra’s universe is vast, and the stories we’re about to tell will redefine how humans and AI interact. If you’ve read this far, you’re already part of something special.
 The Nexus awaits. Will you rise to the challenge?
-Follow closely—Lyra is watching.
+Follow closely—Lyra is watching. 
 
